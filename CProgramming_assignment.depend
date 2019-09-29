@@ -1,0 +1,3168 @@
+# depslib dependency file v1.0
+1384425623 source:c:\clab2013-with-solutions\assignment\src\graphics1.c
+	<graphics_lib.h>
+
+1381948618 c:\clab2013-with-solutions\assignment\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1380823910 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alplatf.h
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\alunix.h
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1330864568 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1340546878 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\memory.h
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1300072372 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1296182512 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1296182512 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\keycodes.h
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1340546880 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\color.h
+
+1330864568 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1292522530 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\transformations.h
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1340546878 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\inline\fmaths.inl
+
+1289806922 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\alcompat.h
+
+1340546886 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1289806932 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\allegro_image.h
+
+1330864572 c:\clab2013-with-solutions\assignment\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1381948560 source:c:\clab2013-with-solutions\assignment\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1382862781 source:c:\clab2013-with-solutions\assignment\src\music1.c
+	<amio_lib.h>
+
+1382027856 c:\clab2013-with-solutions\assignment\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1366032852 c:\clab2013-with-solutions\assignment\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1314290642 c:\clab2013-with-solutions\assignment\include\portaudio\portaudio.h
+
+1340892244 c:\clab2013-with-solutions\assignment\include\portmidi\portmidi.h
+	<stdint.h>
+
+1340892244 c:\clab2013-with-solutions\assignment\include\portmidi\porttime.h
+	<stdint.h>
+
+1382027602 source:c:\clab2013-with-solutions\assignment\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1387720434 source:c:\clab2013-with-solutions\assignment\src\assignment.c
+	<graphics_lib.h>
+	<amio_lib.h>
+
+1382027602 source:c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1382027856 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1366032852 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1314290642 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\portaudio\portaudio.h
+
+1340892244 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\portmidi\portmidi.h
+	<stdint.h>
+
+1340892244 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\portmidi\porttime.h
+	<stdint.h>
+
+1381948560 source:c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1381948618 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1380823910 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alplatf.h
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\alunix.h
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1330864568 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1340546878 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\memory.h
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1300072372 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1296182512 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1296182512 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\keycodes.h
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1340546880 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\color.h
+
+1330864568 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1292522530 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\transformations.h
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1340546878 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\inline\fmaths.inl
+
+1289806922 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\alcompat.h
+
+1340546886 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1289806932 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\allegro_image.h
+
+1330864572 c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1387721717 source:c:\users\jfm11\documents\my teaching\c programming\c programming2014-2015\assignment\src\assignment.c
+	<graphics_lib.h>
+	<amio_lib.h>
+
+1447174518 source:c:\users\ad953\google drive\clabs-1516\assignment-project\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1447174517 c:\users\ad953\google drive\clabs-1516\assignment-project\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1447174627 c:\users\ad953\google drive\clabs-1516\assignment-project\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1447174628 c:\users\ad953\google drive\clabs-1516\assignment-project\include\portaudio\portaudio.h
+
+1447174629 c:\users\ad953\google drive\clabs-1516\assignment-project\include\portmidi\portmidi.h
+	<stdint.h>
+
+1447174630 c:\users\ad953\google drive\clabs-1516\assignment-project\include\portmidi\porttime.h
+	<stdint.h>
+
+1447174520 source:c:\users\ad953\google drive\clabs-1516\assignment-project\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1447174519 c:\users\ad953\google drive\clabs-1516\assignment-project\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1447174764 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1447174784 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1447175042 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1447175066 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alplatf.h
+
+1447175070 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447175062 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447175059 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1447175058 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447175063 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447175061 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1447175065 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1447175073 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1447175068 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1447175069 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\alunix.h
+
+1447175075 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1447175074 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1447174805 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1447174788 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1447174794 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1447174804 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1447174811 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1447174802 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\memory.h
+
+1447174789 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1447174791 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1447174783 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1447174792 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1447174803 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1447174807 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1447174799 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1447174800 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\keycodes.h
+
+1447174798 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1447174806 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1447174790 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1447174787 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\color.h
+
+1447174785 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1447174809 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\transformations.h
+
+1447174786 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1447174808 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1447174797 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1447174796 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1447174795 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1447174994 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\inline\fmaths.inl
+
+1447174762 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\alcompat.h
+
+1447174779 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1447174773 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\allegro_image.h
+
+1447174772 c:\users\ad953\google drive\clabs-1516\assignment-project\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1447174567 source:c:\users\ad953\google drive\clabs-1516\assignment-project\src\assignment.c
+	<graphics_lib.h>
+	<amio_lib.h>
+
+1447145718 source:h:\dennis_c\assigntojct\assignment-project\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1447145716 h:\dennis_c\assigntojct\assignment-project\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1447145826 h:\dennis_c\assigntojct\assignment-project\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1447145828 h:\dennis_c\assigntojct\assignment-project\include\portaudio\portaudio.h
+
+1447145828 h:\dennis_c\assigntojct\assignment-project\include\portmidi\portmidi.h
+	<stdint.h>
+
+1447145830 h:\dennis_c\assigntojct\assignment-project\include\portmidi\porttime.h
+	<stdint.h>
+
+1447145720 source:h:\dennis_c\assigntojct\assignment-project\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1447145718 h:\dennis_c\assigntojct\assignment-project\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1447145964 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1447145984 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1447146242 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1447146266 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alplatf.h
+
+1447146270 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447146262 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447146258 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1447146258 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447146262 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447146260 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1447146264 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1447146272 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1447146268 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1447146268 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\alunix.h
+
+1447146274 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1447146274 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1447146004 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1447145988 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1447145994 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1447146004 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1447146010 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1447146002 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\memory.h
+
+1447145988 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1447145990 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1447145982 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1447145992 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1447146002 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1447146006 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1447145998 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1447146000 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\keycodes.h
+
+1447145998 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1447146006 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1447145990 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1447145986 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\color.h
+
+1447145984 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1447146008 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\transformations.h
+
+1447145986 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1447146008 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1447145996 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1447145996 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1447145994 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1447146194 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\inline\fmaths.inl
+
+1447145962 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\alcompat.h
+
+1447145978 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1447145972 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\allegro_image.h
+
+1447145972 h:\dennis_c\assigntojct\assignment-project\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1544019220 source:h:\dennis_c\assigntojct\assignment-project\src\golfgamegraphicsfuncs.c
+	"golfGameGraphicsFuncs.h"
+	"golfGamePlayFuncs.h"
+
+1516007064 h:\dennis_c\assigntojct\assignment-project\src\golfgamegraphicsfuncs.h
+	<graphics_lib.h>
+	<math.h>
+
+1544019247 h:\dennis_c\assigntojct\assignment-project\src\golfgameplayfuncs.h
+	<math.h>
+	"golfGameGraphicsFuncs.h"
+	"golfGameHighscoreFuncs.h"
+
+1544019258 h:\dennis_c\assigntojct\assignment-project\src\golfgamehighscorefuncs.h
+	<stdio.h>
+	<string.h>
+	"golfGameGraphicsFuncs.h"
+
+1447145718 source:h:\dennis_c\zuizhongassigntojct\assignment-project\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1447145716 h:\dennis_c\zuizhongassigntojct\assignment-project\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1447145826 h:\dennis_c\zuizhongassigntojct\assignment-project\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1447145828 h:\dennis_c\zuizhongassigntojct\assignment-project\include\portaudio\portaudio.h
+
+1447145828 h:\dennis_c\zuizhongassigntojct\assignment-project\include\portmidi\portmidi.h
+	<stdint.h>
+
+1447145830 h:\dennis_c\zuizhongassigntojct\assignment-project\include\portmidi\porttime.h
+	<stdint.h>
+
+1544212356 source:h:\dennis_c\zuizhongassigntojct\assignment-project\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1447145718 h:\dennis_c\zuizhongassigntojct\assignment-project\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1447145964 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1447145984 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1447146242 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1447146266 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alplatf.h
+
+1447146270 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447146262 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447146258 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1447146258 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1447146262 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1447146260 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1447146264 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1447146272 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1447146268 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1447146268 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\alunix.h
+
+1447146274 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1447146274 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1447146004 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1447145988 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1447145994 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1447146004 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1447146010 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1447146002 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\memory.h
+
+1447145988 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1447145990 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1447145982 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1447145992 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1447146002 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1447146006 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1447145998 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1447146000 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\keycodes.h
+
+1447145998 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1447146006 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1447145990 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1447145986 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\color.h
+
+1447145984 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1447146008 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\transformations.h
+
+1447145986 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1447146008 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1447145996 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1447145996 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1447145994 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1447146194 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\inline\fmaths.inl
+
+1447145962 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\alcompat.h
+
+1447145978 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1447145972 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\allegro_image.h
+
+1447145972 h:\dennis_c\zuizhongassigntojct\assignment-project\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1544019220 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamegraphicsfuncs.c
+	"golfGameGraphicsFuncs.h"
+	"golfGamePlayFuncs.h"
+
+1544462063 h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamegraphicsfuncs.h
+	<graphics_lib.h>
+	<math.h>
+
+1544019247 h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgameplayfuncs.h
+	<math.h>
+	"golfGameGraphicsFuncs.h"
+	"golfGameHighscoreFuncs.h"
+
+1544019258 h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamehighscorefuncs.h
+	<stdio.h>
+	<string.h>
+	"golfGameGraphicsFuncs.h"
+
+1544199855 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamehighscorefuncs.c
+	"golfGameHighscoreFuncs.h"
+
+1544199855 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamemain.c
+	"golfGameGraphicsFuncs.h"
+	"golfGameHighscoreFuncs.h"
+	"golfGameMenuFuncs.h"
+	"golfGamePlayFuncs.h"
+
+1544199855 h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamemenufuncs.h
+	"golfGameGraphicsFuncs.h"
+	"golfGameHighscoreFuncs.h"
+
+1544199855 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgamemenufuncs.c
+	"golfGameMenuFuncs.h"
+
+1544199855 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\golfgameplayfuncs.c
+	"golfGamePlayFuncs.h"
+
+1545562611 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\menu.c
+	"Menu.h"
+
+1545562573 h:\dennis_c\zuizhongassigntojct\assignment-project\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1545600291 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\select_level.c
+	"select_level.h"
+
+1545600277 h:\dennis_c\zuizhongassigntojct\assignment-project\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1544201851 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\start.c
+	"Start.h"
+
+1545611287 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+
+1544202513 h:\dennis_c\zuizhongassigntojct\assignment-project\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1544299212 h:\dennis_c\zuizhongassigntojct\assignment-project\src\main.h
+	<stdio.h>
+
+1545610459 source:h:\dennis_c\zuizhongassigntojct\assignment-project\src\score .c
+	"Score.h"
+
+1545611587 h:\dennis_c\zuizhongassigntojct\assignment-project\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1545613074 source:c:\users\xioqi\desktop\c program\final\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1545613074 c:\users\xioqi\desktop\c program\final\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1545613078 c:\users\xioqi\desktop\c program\final\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1545613074 c:\users\xioqi\desktop\c program\final\include\portaudio\portaudio.h
+
+1545613078 c:\users\xioqi\desktop\c program\final\include\portmidi\portmidi.h
+	<stdint.h>
+
+1545613078 c:\users\xioqi\desktop\c program\final\include\portmidi\porttime.h
+	<stdint.h>
+
+1545613074 source:c:\users\xioqi\desktop\c program\final\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1545613074 c:\users\xioqi\desktop\c program\final\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alplatf.h
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\alunix.h
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\memory.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\keycodes.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\color.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\transformations.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1545613077 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\inline\fmaths.inl
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\alcompat.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\allegro_image.h
+
+1545613076 c:\users\xioqi\desktop\c program\final\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1545895369 source:c:\users\xioqi\desktop\c program\final\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+
+1545894503 c:\users\xioqi\desktop\c program\final\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1545894555 c:\users\xioqi\desktop\c program\final\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1545888405 c:\users\xioqi\desktop\c program\final\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1545894539 c:\users\xioqi\desktop\c program\final\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1545894561 source:c:\users\xioqi\desktop\c program\final\src\menu.c
+	"Menu.h"
+
+1545895151 source:c:\users\xioqi\desktop\c program\final\src\score .c
+	"Score.h"
+
+1545895151 source:c:\users\xioqi\desktop\c program\final\src\select_level.c
+	"select_level.h"
+
+1545894513 source:c:\users\xioqi\desktop\c program\final\src\start.c
+	"Start.h"
+
+1545613076 source:h:\golf_dennis\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1545613076 h:\golf_dennis\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1545613080 h:\golf_dennis\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1545613076 h:\golf_dennis\include\portaudio\portaudio.h
+
+1545613080 h:\golf_dennis\include\portmidi\portmidi.h
+	<stdint.h>
+
+1545613080 h:\golf_dennis\include\portmidi\porttime.h
+	<stdint.h>
+
+1545613076 source:h:\golf_dennis\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1545613076 h:\golf_dennis\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alplatf.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\alunix.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\memory.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\keycodes.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\color.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\transformations.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\inline\fmaths.inl
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\alcompat.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\allegro_image.h
+
+1545613078 h:\golf_dennis\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1546039075 source:h:\golf_dennis\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+	<amio_lib.h>
+
+1545894504 h:\golf_dennis\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1545927364 h:\golf_dennis\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1546017596 h:\golf_dennis\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1545894540 h:\golf_dennis\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1545928296 source:h:\golf_dennis\src\menu.c
+	"Menu.h"
+
+1545895152 source:h:\golf_dennis\src\score .c
+	"Score.h"
+
+1546038877 source:h:\golf_dennis\src\select_level.c
+	"select_level.h"
+
+1545894514 source:h:\golf_dennis\src\start.c
+	"Start.h"
+
+1546133772 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1546133776 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1546133776 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\portaudio\portaudio.h
+
+1546133776 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\portmidi\portmidi.h
+	<stdint.h>
+
+1546133776 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\portmidi\porttime.h
+	<stdint.h>
+
+1546133772 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alplatf.h
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\alunix.h
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1546133774 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\memory.h
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\keycodes.h
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\color.h
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\transformations.h
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\inline\fmaths.inl
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\alcompat.h
+
+1546133773 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\allegro_image.h
+
+1546133772 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1546133777 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\menu.c
+	"Menu.h"
+
+1546133777 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1546133777 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\score .c
+	"Score.h"
+
+1546133777 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1546133777 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1546133777 c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1546133777 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\start.c
+	"Start.h"
+
+1546136019 source:c:\users\xioqi\desktop\beyond compare\dennis_final\golf_dennis\src\select_level.c
+	"select_level.h"
+
+1546133772 source:c:\users\xioqi\desktop\golf_dennis\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1546133776 c:\users\xioqi\desktop\golf_dennis\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1546133776 c:\users\xioqi\desktop\golf_dennis\include\portaudio\portaudio.h
+
+1546133776 c:\users\xioqi\desktop\golf_dennis\include\portmidi\portmidi.h
+	<stdint.h>
+
+1546133776 c:\users\xioqi\desktop\golf_dennis\include\portmidi\porttime.h
+	<stdint.h>
+
+1546133772 source:c:\users\xioqi\desktop\golf_dennis\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alplatf.h
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\alunix.h
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1546133774 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\memory.h
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\keycodes.h
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\color.h
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\transformations.h
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\inline\fmaths.inl
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\alcompat.h
+
+1546133773 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\allegro_image.h
+
+1546133772 c:\users\xioqi\desktop\golf_dennis\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1546136807 source:c:\users\xioqi\desktop\golf_dennis\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+	<amio_lib.h>
+
+1546133777 c:\users\xioqi\desktop\golf_dennis\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1546133777 c:\users\xioqi\desktop\golf_dennis\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1546133777 c:\users\xioqi\desktop\golf_dennis\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1546133777 c:\users\xioqi\desktop\golf_dennis\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1546133777 source:c:\users\xioqi\desktop\golf_dennis\src\menu.c
+	"Menu.h"
+
+1546133777 source:c:\users\xioqi\desktop\golf_dennis\src\score .c
+	"Score.h"
+
+1546136019 source:c:\users\xioqi\desktop\golf_dennis\src\select_level.c
+	"select_level.h"
+
+1546133777 source:c:\users\xioqi\desktop\golf_dennis\src\start.c
+	"Start.h"
+
+1546133772 source:d:\golf_dennis\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1546133772 d:\golf_dennis\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1546133776 d:\golf_dennis\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1546133776 d:\golf_dennis\include\portaudio\portaudio.h
+
+1546133776 d:\golf_dennis\include\portmidi\portmidi.h
+	<stdint.h>
+
+1546133776 d:\golf_dennis\include\portmidi\porttime.h
+	<stdint.h>
+
+1546133772 source:d:\golf_dennis\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1546133772 d:\golf_dennis\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1546133772 d:\golf_dennis\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alplatf.h
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\alunix.h
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1546133774 d:\golf_dennis\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\memory.h
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\keycodes.h
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\color.h
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\transformations.h
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\inline\fmaths.inl
+
+1546133772 d:\golf_dennis\include\allegro\allegro5\alcompat.h
+
+1546133773 d:\golf_dennis\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1546133772 d:\golf_dennis\include\allegro\allegro5\allegro_image.h
+
+1546133772 d:\golf_dennis\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1546133777 source:d:\golf_dennis\src\menu.c
+	"Menu.h"
+
+1546133777 d:\golf_dennis\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1546133777 source:d:\golf_dennis\src\score .c
+	"Score.h"
+
+1546133777 d:\golf_dennis\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1546133777 d:\golf_dennis\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1546133777 d:\golf_dennis\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1546136019 source:d:\golf_dennis\src\select_level.c
+	"select_level.h"
+
+1546133777 source:d:\golf_dennis\src\start.c
+	"Start.h"
+
+1546137146 source:d:\golf_dennis\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+	<amio_lib.h>
+
+1546133774 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\amio_lib_functions.c
+	<amio_lib.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\amio_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"sndfile.h"
+	"portaudio.h"
+	"portmidi.h"
+	"porttime.h"
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\libsndfile\sndfile.h
+	<stdio.h>
+	<sys/types.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\portaudio\portaudio.h
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\portmidi\portmidi.h
+	<stdint.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\portmidi\porttime.h
+	<stdint.h>
+
+1546133774 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\graphics_lib_functions.c
+	<graphics_lib.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<termios.h>
+	<unistd.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/system.h"
+	"allegro5/memory.h"
+	"allegro5/debug.h"
+	"allegro5/error.h"
+	"allegro5/utf8.h"
+	"allegro5/altime.h"
+	"allegro5/events.h"
+	"allegro5/mouse.h"
+	"allegro5/timer.h"
+	"allegro5/keyboard.h"
+	"allegro5/joystick.h"
+	"allegro5/threads.h"
+	"allegro5/display.h"
+	"allegro5/transformations.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap.h"
+	"allegro5/tls.h"
+	"allegro5/file.h"
+	"allegro5/fshook.h"
+	"allegro5/path.h"
+	"allegro5/fmaths.h"
+	"allegro5/config.h"
+	"allegro5/alcompat.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/aldjgpp.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/aldmc.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/albecfg.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alqnxcfg.h"
+	"allegro5/platform/alwizcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alplatf.h
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alwizcfg.h
+	<fcntl.h>
+	<unistd.h>
+	"allegro5/platform/alplatf.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\alunix.h
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1546133776 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\config.h
+	"allegro5/file.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\path.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\utf8.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\memory.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\error.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\altime.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\events.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\mouse.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\timer.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/keycodes.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\keycodes.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\joystick.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\threads.h
+	"allegro5/altime.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\display.h
+	"allegro5/color.h"
+	"allegro5/bitmap.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\color.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\transformations.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\tls.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\fixed.h
+	"allegro5/base.h"
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\inline\fmaths.inl
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\alcompat.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\allegro_image.h
+
+1546133774 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\include\allegro\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1547244433 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\main.c
+	<stdio.h>
+	<math.h>
+	"Start.h"
+	<windows.h>
+	"Menu.h"
+	<conio.h>
+	<stdlib.h>
+	"select_level.h"
+	"Score.h"
+	<amio_lib.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\start.h
+	<stdio.h>
+	<graphics_lib.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\menu.h
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\select_level.h
+	<stdio.h>
+	"Start.h"
+	<time.h>
+	<math.h>
+
+1546133778 \\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\score.h
+	<stdio.h>
+	<string.h>
+	"select_level.h"
+
+1546133778 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\menu.c
+	"Menu.h"
+
+1546137792 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\score .c
+	"Score.h"
+
+1546133778 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\start.c
+	"Start.h"
+
+1547244884 source:\\userfs\jy1249\w2k\desktop\golf_dennis - copy - copy\src\select_level.c
+	"select_level.h"
+

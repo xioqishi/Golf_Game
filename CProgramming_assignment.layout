@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="dennis" />
+	<File name="include\allegro\allegro5\events.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2563" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="include\amio_lib_functions.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14955" topLine="446" />
+		</Cursor>
+	</File>
+	<File name="src\Main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="993" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3244" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="src\Start.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\allegro5\keycodes.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2290" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="include\graphics_lib_functions.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8433" topLine="270" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\allegro5\internal\aintern_bitmap.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="568" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\allegro5\allegro_primitives.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6148" topLine="121" />
+		</Cursor>
+	</File>
+	<File name="include\graphics_lib.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="999" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="src\Menu.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1794" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="src\select_level.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="356" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="src\Menu.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="451" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\allegro_examples\nihgui.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3132" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\freetype\ftimage.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19346" topLine="303" />
+		</Cursor>
+	</File>
+	<File name="src\Score.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\select_level.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16471" topLine="446" />
+		</Cursor>
+	</File>
+	<File name="include\license.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="136" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\allegro5\internal\aintern_keyboard.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="858" topLine="38" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\allegro5\keyboard.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="838" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="src\Start.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\freetype\ftcache.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48007" topLine="1095" />
+		</Cursor>
+	</File>
+	<File name="include\portmidi\portmidi.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16585" topLine="381" />
+		</Cursor>
+	</File>
+	<File name="include\amio_lib.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7738" topLine="177" />
+		</Cursor>
+	</File>
+	<File name="src\assignment.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5751" topLine="148" />
+		</Cursor>
+	</File>
+	<File name="include\allegro\AL\efx.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3645" topLine="71" />
+		</Cursor>
+	</File>
+	<File name="src\Score .c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="176" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
